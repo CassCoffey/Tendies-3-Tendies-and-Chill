@@ -1,0 +1,38 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.034 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Sean Coffey\Documents\Tendies 3 Tendies and Chill\TendiesThree_Data\Managed\System.dll (this message is harmless)
+[CAPI] LibOVR module is located at C:\WINDOWS\SYSTEM32\LibOVRRT32_0_6.dll
+
+ 
+(Filename:  Line: 46)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1dd4 -> priority: 1 
+  Thread -> id: 1884 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.151000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 581.
+Total: 0.242542 ms (FindLiveObjects: 0.028086 ms CreateObjectMapping: 0.015213 ms MarkObjects: 0.192804 ms  DeleteObjects: 0.006144 ms)
+
